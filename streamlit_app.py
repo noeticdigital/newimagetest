@@ -22,9 +22,8 @@ from steps import step3
 st.markdown('<div style="font-size: 4rem; margin-bottom: -3rem;">🎨</div>', unsafe_allow_html=True)
 
 '''
-# Blog image generator
+# Survey image generator
 
-An app to generate good-looking images for [our blog](https://blog.streamlit.io).
 '''
 
 '---'
